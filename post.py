@@ -8,7 +8,7 @@ payload = {
     "title": "foo",
     "body": "bar",
     "userId": 1,
-    "token": ctf{R3mp0v3_T0k3ns_b3f0r3_sh4r!ng}
+    "token": yourtoken
 }
 
 # Make the POST request
