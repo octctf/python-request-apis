@@ -7,7 +7,8 @@ url = "https://jsonplaceholder.typicode.com/posts"
 payload = {
     "title": "foo",
     "body": "bar",
-    "userId": 1
+    "userId": 1,
+    "token": test
 }
 
 # Make the POST request
