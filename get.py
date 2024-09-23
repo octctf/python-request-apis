@@ -1,7 +1,7 @@
 import requests
 
 # Define the URL of the API endpoint
-url = "https://jsonplaceholder.typicode.com/posts/1"
+url = "https://yourjsonplaceholderurl.com/posts/1"
 
 # Make the GET request
 response = requests.get(url)
