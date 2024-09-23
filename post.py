@@ -1,14 +1,14 @@
 import requests
 
 # Define the URL of the API endpoint
-url = "https://jsonplaceholder.typicode.com/posts"
+url = "https://yourjsonplaceholderurl.com/posts"
 
 # Define the data to be sent in the request
 payload = {
     "title": "foo",
     "body": "bar",
     "userId": 1,
-    "token": test
+    "token": ctf{R3mp0v3_T0k3ns_b3f0r3_sh4r!ng}
 }
 
 # Make the POST request
